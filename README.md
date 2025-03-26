@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mau-Cha
+- 👋 Hi, I’m Maurin
 - 👀 I’m interested in programacion en R
 - 🌱 I’m currently learning programación avanzada en R 
 - 💞️ I’m looking to collaborate on modelos de datos de testing la precisión global, el error, los analisis de componentes principales, graficos y reportes.
